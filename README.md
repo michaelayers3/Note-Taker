@@ -3,9 +3,9 @@
  # Note Taker
 
 
-    
  ## Description
-    This application allows the user to create, save, and delete notes. The user can create a note by clicking the plus icon in the top right corner. The user can save the note by clicking the save icon in the top right corner. The user can delete a note by clicking the trash can icon next to the note. The user can view a note by clicking on the note in the left column.             
+    This application allows the user to create, save, and delete notes. The user can create a note by clicking the plus icon in the top right corner. The user can save the note by clicking the save icon in the top right corner. 
+    The user can delete a note by clicking the trash can icon next to the note. The user can view a note by clicking on the note in the left column.             
         
  ## Table of Contents
  * [Installation](#installation)
@@ -16,6 +16,7 @@
  * [Questions](#questions)
                 
  ## Installation
+ 
     The user must install the following dependencies to run the application: express, fs, and path.
     All dependencies are included in the package.json file. 
     To install necessary dependencies, run the following command:
