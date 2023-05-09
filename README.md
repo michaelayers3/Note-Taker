@@ -27,7 +27,8 @@ To install necessary dependencies, run the following command:
  This application is used to create, save, and delete notes. It can be used for a plethora of reasons. It is a great way to keep track of tasks, ideas, and more.  Below is a screenshot of the application in use:
  [!screenshot](11-express-homework-demo-01.png)
  [!screenshot](11-express-homework-demo-02.png)
-    
+ Here is the link to the deployed site:
+https://note-taker333.herokuapp.com/
         
  ## License
  MIT
